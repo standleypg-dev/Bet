@@ -1,4 +1,4 @@
-# Your Dream Kaching
+# Bet System
 
 ## Installation / Getting Started
 
